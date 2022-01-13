@@ -1,7 +1,7 @@
 - 👋 Hi, I'am Kevin Almeida
-- 👀 I’m interested in Data Science with Python, and Java
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on projetos of data analysis, and Java
+- 👀 I’m interested in Java, JavaScript, Python, Cypress...
+- 🌱 I’m currently learning web development fullstack, software testing and data analysis. 
+- 💞️ I’m looking to collaborate on projects of data analysis, and web fullstack.
 - 📫 How to reach me janioklalmeida05@gmail.com
   
   ##
