@@ -1,7 +1,6 @@
 - 👋 Hi, I'am Kevin Almeida
-- 👀 I’m interested in Java, JavaScript, Python, Cypress...
-- 🌱 I’m currently learning web development fullstack, software testing and data analysis. 
-- 💞️ I’m looking to collaborate on projects of data analysis, and web fullstack.
+- 👀 I’m interested in web development and software testing...
+- 🌱 I’m currently learning web development: nuxtJS, adonisJS | software testing: manual and automated tests, cypress.io
 - 📫 How to reach me janioklalmeida05@gmail.com
   
   ##
@@ -12,11 +11,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eukvyn&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Kevin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Kevin-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
-  <img align="center" alt="Kevin-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Kevin-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Kevin-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Kevin-adonisJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
+  <img align="center" alt="Kevin-nuxtJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg">
+  <img align="center" alt="Kevin-cypress.io" height="30" width="40" src="https://simpleicons.org/icons/cypress.svg">
 </div>
   
   ##
