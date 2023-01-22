@@ -7,12 +7,16 @@
   
  <div>
   <a href="https://github.com/eukvyn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eukvyn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eukvyn&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eukvyn&show_icons=true&theme=radical&include_all_commits=true&hide=issues&count_private=true"/>
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=eukvyn&layout=compact&hide=java,python,jupyter%20notebook,powershell&langs_count=5&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Kevin-adonisJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
+  <img align="center" alt="Kevin-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Kevin-nodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Kevin-vueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
   <img align="center" alt="Kevin-nuxtJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg">
+  <img align="center" alt="Kevin-adonisJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
   <img align="center" alt="Kevin-cypress.io" height="30" width="40" src="https://simpleicons.org/icons/cypress.svg">
 </div>
   
