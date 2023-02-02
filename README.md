@@ -56,12 +56,16 @@
 
 ### 📈 My Statistics
 
-| Geral                                                                                                                                                           | Principais Linguagens                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![README](https://github-readme-stats.vercel.app/api?username=eukvyn&show_icons=true&theme=radical&include_all_commits=true&hide=issues&count_private=true") | ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=eukvyn&layout=compact&hide=java,python,jupyter%20notebook,powershell&langs_count=5&theme=radical)
-  
-<div>
-  <img height="180em" src="https://streak-stats.demolab.com?user=eukvyn&theme=dracula&hide_border=false&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>
+<div align="center">
+  <div>
+    <img height="168em" widht="40" src="https://streak-stats.demolab.com?user=eukvyn&theme=radical&hide_border=false&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>
+  </div>
+  <div>
+    <img height="155em" widht="40" src="https://github-readme-stats.vercel.app/api?username=eukvyn&show_icons=true&theme=radical&include_all_commits=true&hide=issues&count_private=true"/>
+  </div>
+  <div>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eukvyn&layout=compact&hide=java,python,jupyter%20notebook,powershell&langs_count=5&theme=radical"/>
+  </div>
 </div>
  
 ### ☎️ Contact
