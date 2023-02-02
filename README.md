@@ -1,28 +1,70 @@
-- 👋 Hi, I'am Kevin Almeida
-- 👀 I’m interested in web development and software testing...
-- 🌱 I’m currently learning web development: nuxtJS, adonisJS | software testing: manual and automated tests, cypress.io
-- 📫 How to reach me janioklalmeida05@gmail.com
+<h1 align='center'>
+  Olá Mundo, sou Kevin Almeida!
+</h1>
+
+### 🎭 About me:
+
+<p>
+  <em>
+    Tenho 18 anos, Aracaju - SE e, atualmente, trabalho como Analista de teste (QA) na WCSA Soluções em Teste
+  </em>
+</p>
+
+- 👀 Estou interessado na área de desenvolvimento web e teste de software...
+- 🎵 Sou apaixonado por música (Trap/Rap) e jogos 🎮
+- 🦸🏽‍♂️ Não tenho medo de desafios, entrego meu máximo para aproveitar as oportunidades de aprendizado
   
-  ##
+### 📊 Goals 2023:
   
- <div>
-  <a href="https://github.com/eukvyn">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=eukvyn&show_icons=true&theme=radical&include_all_commits=true&hide=issues&count_private=true"/>
-  <img height="165em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=eukvyn&layout=compact&hide=java,python,jupyter%20notebook,powershell&langs_count=5&theme=radical"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Kevin-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Kevin-nodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Kevin-vueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-  <img align="center" alt="Kevin-nuxtJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg">
-  <img align="center" alt="Kevin-adonisJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
-  <img align="center" alt="Kevin-cypress.io" height="30" width="40" src="https://simpleicons.org/icons/cypress.svg">
-</div>
-  
-  ##
+- 📂 Expandir meu portfólio com javascript
+
+- 🤳🏾 Movimentar minhas redes sociais como Dev (github, linkedin...)
+
+- 👨🏾‍💻 Primeiro emprego como desenvolvedor jr.
+
+- 🗣️ Evoluir meu inglês.
+
+### 👉 Frontend
+[![Habilidades front-end](https://skillicons.dev/icons?i=js,vue,nuxtjs,html,css,bootstrap,
+)](https://skillicons.dev)
  
+### 👉 Backend
+[![Habilidades back-end](https://skillicons.dev/icons?i=ts,nodejs,adonis,py,mysql,postgres
+)](https://skillicons.dev)
+
+### 👉 Code versioning, hosting e IDE
+[![Outras informações](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,netlify,heroku,vscode
+)](https://skillicons.dev)
+
+### 👉 Other Tools and Technologies
+![Cypress](https://img.shields.io/badge/cypress-blue.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![K6](https://img.shields.io/badge/k6-430098.svg?style=for-the-badge&logo=k6&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/insomnia-purple.svg?style=for-the-badge&logo=insomnia&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232f3e.svg?style=for-the-badge&logo=amazonAWS&logoColor=orange)
+
+### 👉 Para todos verem
+- No front-end possui os icones do Javascript, Vue, Nuxt, HTML, CSS, e Bootstrap
+
+- No back-end possui os icones do Typescript, Node, Adonis, Pythom, Mysql, e Postgres
+
+- No Code versioning, hosting e IDE possui os icones do Git, Github, Github Actions, Gitlab, Netlify, Heroku e Visual Studio Code (vscode).
+
+- No Other Tools and Technologies possui os icones do Cypress, Graphana K6, Postman, Insomnia, e AWS.
+
+<br />
+
+### 📈 My Statistics
+
+| Geral                                                                                                                                                           | Principais Linguagens                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![README](https://github-readme-stats.vercel.app/api?username=eukvyn&show_icons=true&theme=radical&include_all_commits=true&hide=issues&count_private=true") | ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=eukvyn&layout=compact&hide=java,python,jupyter%20notebook,powershell&langs_count=5&theme=radical)
   
+<div>
+  <img height="180em" src="https://streak-stats.demolab.com?user=eukvyn&theme=dracula&hide_border=false&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>
+</div>
+ 
+### ☎️ Contact
 <div> 
   <a href="https://instagram.com/eukvyn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:janioklalmeida05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -32,8 +74,10 @@
  
 </div>
 
+<h4 align="center">Visitas a partir de Fev/2023</h4>
 
-<!---
-eukvyn/eukvyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/eukvyn/count.svg?"  />
+</div>
