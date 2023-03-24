@@ -25,7 +25,7 @@
 - 🗣️ Evoluir meu inglês.
 
 ### 👉 Frontend
-[![Habilidades front-end](https://skillicons.dev/icons?i=js,vue,nuxtjs,html,css,bootstrap,
+[![Habilidades front-end](https://skillicons.dev/icons?i=js,vue,nuxtjs,react,next,html,css,bootstrap,
 )](https://skillicons.dev)
  
 ### 👉 Backend
@@ -33,7 +33,7 @@
 )](https://skillicons.dev)
 
 ### 👉 Code versioning, hosting e IDE
-[![Outras informações](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,netlify,heroku,vscode
+[![Outras informações](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,netlify,heroku,vercel,vscode
 )](https://skillicons.dev)
 
 ### 👉 Other Tools and Technologies
@@ -44,11 +44,11 @@
 ![AWS](https://img.shields.io/badge/AWS-232f3e.svg?style=for-the-badge&logo=amazonAWS&logoColor=orange)
 
 ### 👉 Para todos verem
-- No front-end possui os icones do Javascript, Vue, Nuxt, HTML, CSS, e Bootstrap
+- No front-end possui os icones do Javascript, Vue, Nuxt, React, Next, HTML, CSS, e Bootstrap
 
 - No back-end possui os icones do Typescript, Node, Adonis, Pythom, Mysql, e Postgres
 
-- No Code versioning, hosting e IDE possui os icones do Git, Github, Github Actions, Gitlab, Netlify, Heroku e Visual Studio Code (vscode).
+- No Code versioning, hosting e IDE possui os icones do Git, Github, Github Actions, Gitlab, Netlify, Heroku, Vercel e Visual Studio Code (vscode).
 
 - No Other Tools and Technologies possui os icones do Cypress, Graphana K6, Postman, Insomnia, e AWS.
 
