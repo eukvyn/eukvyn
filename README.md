@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    Tenho 18 anos, Aracaju - SE e, atualmente, trabalho como Analista de teste (QA) na WCSA Soluções em Teste
+    Tenho 18 anos, Aracaju - SE e, atualmente, trabalho como Fullstack Developer na Coodesh
   </em>
 </p>
 
