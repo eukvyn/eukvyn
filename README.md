@@ -6,34 +6,30 @@
 
 <p>
   <em>
-    Tenho 18 anos, Aracaju - SE e, atualmente, trabalho como Fullstack Developer na Coodesh
+    Tenho 19 anos, Aracaju - SE e, atualmente, trabalho como Fullstack Developer na Recchi Tech
   </em>
 </p>
 
-- 👀 Estou interessado na área de desenvolvimento web e teste de software...
+- 👀 Profissional da área de desenvolvimento web e teste de software...
 - 🎵 Sou apaixonado por música (Trap/Rap) e jogos 🎮
 - 🦸🏽‍♂️ Não tenho medo de desafios, entrego meu máximo para aproveitar as oportunidades de aprendizado
   
-### 📊 Goals 2023:
-  
-- 📂 Expandir meu portfólio com javascript
+### 📊 Goals 2024:
 
 - 🤳🏾 Movimentar minhas redes sociais como Dev (github, linkedin...)
 
-- 👨🏾‍💻 Primeiro emprego como desenvolvedor jr.
-
-- 🗣️ Evoluir meu inglês.
+- 🗣️ Evoluir meu inglês e Francês.
 
 ### 👉 Frontend
-[![Habilidades front-end](https://skillicons.dev/icons?i=js,vue,nuxtjs,react,next,html,css,bootstrap,
+[![Habilidades front-end](https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,react,next,html,css,bootstrap,
 )](https://skillicons.dev)
  
 ### 👉 Backend
-[![Habilidades back-end](https://skillicons.dev/icons?i=ts,nodejs,adonis,py,mysql,postgres
+[![Habilidades back-end](https://skillicons.dev/icons?i=php,laravel,nodejs,adonis,mysql
 )](https://skillicons.dev)
 
-### 👉 Code versioning, hosting e IDE
-[![Outras informações](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,netlify,heroku,vercel,vscode
+### 👉 Code versioning, hosting
+[![Outras informações](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,netlify,heroku,vercel
 )](https://skillicons.dev)
 
 ### 👉 Other Tools and Technologies
@@ -44,11 +40,11 @@
 ![AWS](https://img.shields.io/badge/AWS-232f3e.svg?style=for-the-badge&logo=amazonAWS&logoColor=orange)
 
 ### 👉 Para todos verem
-- No front-end possui os icones do Javascript, Vue, Nuxt, React, Next, HTML, CSS, e Bootstrap
+- No front-end possui os icones do Javascript, Typescript, Vue, Nuxt, React, Next, HTML, CSS, e Bootstrap
 
-- No back-end possui os icones do Typescript, Node, Adonis, Pythom, Mysql, e Postgres
+- No back-end possui os icones do Php, Laravel, Node, Adonis, Mysql, e Postgres
 
-- No Code versioning, hosting e IDE possui os icones do Git, Github, Github Actions, Gitlab, Netlify, Heroku, Vercel e Visual Studio Code (vscode).
+- No Code versioning, hosting possui os icones do Git, Github, Github Actions, Gitlab, Netlify, Heroku, e Vercel.
 
 - No Other Tools and Technologies possui os icones do Cypress, Graphana K6, Postman, Insomnia, e AWS.
 
@@ -69,16 +65,7 @@
 </div>
  
 ### ☎️ Contact
-<div> 
-  <a href="https://instagram.com/eukvyn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div>
   <a href = "mailto:janioklalmeida05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kevin-almeida-desenvolvedor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-<h4 align="center">Visitas a partir de Fev/2023</h4>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/eukvyn/count.svg?"  />
 </div>
